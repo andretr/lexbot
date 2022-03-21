@@ -3,7 +3,7 @@ import requests
 
 def weather_info(ciudad):
     try:
-        URL = 'http://api.weatherstack.com/current?access_key=5b1f5459e72ca57a1c51bc8820e5c880&query=' + ciudad
+        URL = 'http://api.weatherstack.com/current?access_key=ACCESS_KEY&query=' + ciudad
         r = requests.get(url = URL)
         data = r.json()
         print(data)
