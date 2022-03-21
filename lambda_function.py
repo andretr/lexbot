@@ -7,7 +7,7 @@ def weather_info(ciudad):
         r = requests.get(url = URL)
         data = r.json()
         print(data)
-        response = 'Temperatura: ' + str(data['current']['temperature']) + " °C. Humedad: " + str(data['current']['humidity']) +"%"
+        response = 'Clima en ' + data['location']['name']  +'. Temperatura : ' + str(data['current']['temperature']) + "°C. Humedad: " + str(data['current']['humidity']) +"%"
         return response
     except:
         return "Weather system down"
