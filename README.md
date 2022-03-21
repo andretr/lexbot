@@ -2,6 +2,7 @@
 Demo de integración AWS Lex + Lambdas para consultar el clima
 
 Arquitectura
+
 ![image](https://user-images.githubusercontent.com/4681134/159369131-4eb87a26-270a-4847-82ef-d7353825f46f.png)
 
 
