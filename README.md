@@ -7,6 +7,9 @@ Demo de integración AWS Lex + Lambdas para consultar el clima
 
 
 **Lex**
+![image](https://user-images.githubusercontent.com/4681134/159369567-ccd08747-aa63-45d2-9e88-795f1cd9d40c.png)
+
+
 https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 
 **Lambda**
