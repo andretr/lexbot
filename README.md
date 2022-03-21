@@ -18,5 +18,5 @@ https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 **Layers**
 https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 
-**Others**
+**Integración con Whatsapp **
 https://www.youtube.com/watch?v=sI8ngScVpxI&t=494s
